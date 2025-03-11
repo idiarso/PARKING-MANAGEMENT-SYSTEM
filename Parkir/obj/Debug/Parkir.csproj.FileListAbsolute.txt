@@ -1,0 +1,161 @@
+F:\materi kuliah\Pemrograman\IMK\Parkir\Parkir\bin\Debug\Parkir.exe.config
+F:\materi kuliah\Pemrograman\IMK\Parkir\Parkir\bin\Debug\Parkir.exe
+F:\materi kuliah\Pemrograman\IMK\Parkir\Parkir\bin\Debug\Parkir.pdb
+F:\materi kuliah\Pemrograman\IMK\Parkir\Parkir\obj\Debug\Parkir.csprojResolveAssemblyReference.cache
+F:\materi kuliah\Pemrograman\IMK\Parkir\Parkir\obj\Debug\Parkir.Properties.Resources.resources
+F:\materi kuliah\Pemrograman\IMK\Parkir\Parkir\obj\Debug\Parkir.csproj.GenerateResource.Cache
+F:\materi kuliah\Pemrograman\IMK\Parkir\Parkir\obj\Debug\Parkir.csproj.CoreCompileInputs.cache
+F:\materi kuliah\Pemrograman\IMK\Parkir\Parkir\obj\Debug\Parkir.exe
+F:\materi kuliah\Pemrograman\IMK\Parkir\Parkir\obj\Debug\Parkir.pdb
+F:\materi kuliah\Pemrograman\IMK\Parkir\Parkir\obj\Debug\Parkir.Login.resources
+F:\materi kuliah\Pemrograman\IMK\Parkir\Parkir\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\materi kuliah\Pemrograman\IMK\Parkir\Parkir\obj\Debug\Parkir.Parkir.resources
+F:\materi kuliah\Pemrograman\IMK\Parkir\Parkir\obj\Debug\Parkir.DataMasuk.resources
+F:\materi kuliah\Pemrograman\IMK\Parkir\Parkir\obj\Debug\Parkir.DataKeluar.resources
+F:\materi kuliah\Pemrograman\IMK\Parkir\Parkir\bin\Debug\MySql.Data.dll
+F:\materi kuliah\Pemrograman\IMK\Parkir\Parkir\bin\Debug\MySql.Data.xml
+F:\materi kuliah\Pemrograman\IMK\Parkir\Parkir\obj\Debug\Parkir.DataParkir.resources
+F:\materi kuliah\Pemrograman\IMK\Parkir\Parkir\obj\Debug\Parkir.Laporan.resources
+F:\materi kuliah\Pemrograman\IMK\Parkir\Parkir\obj\Debug\Parkir.Options.resources
+F:\materi kuliah\Pemrograman\IMK\Parkir\Parkir\obj\Debug\Parkir.PengaturanTarif.resources
+F:\materi kuliah\Pemrograman\IMK\Parkir\Parkir\obj\Debug\Parkir.AddUser.resources
+F:\materi kuliah\Pemrograman\IMK\Parkir\Parkir\obj\Debug\Parkir.DataUser.resources
+C:\Users\cahyo\Documents\parkir\Parkir\bin\Debug\Parkir.exe.config
+C:\Users\cahyo\Documents\parkir\Parkir\obj\Debug\Parkir.exe
+C:\Users\cahyo\Documents\parkir\Parkir\obj\Debug\Parkir.pdb
+C:\Users\cahyo\Documents\parkir\Parkir\bin\Debug\Parkir.exe
+C:\Users\cahyo\Documents\parkir\Parkir\bin\Debug\Parkir.pdb
+C:\Users\cahyo\Documents\parkir\Parkir\bin\Debug\MySql.Data.xml
+C:\Users\cahyo\Documents\parkir\Parkir\obj\Debug\Parkir.csprojResolveAssemblyReference.cache
+C:\Users\cahyo\Documents\parkir\Parkir\obj\Debug\Parkir.AddUser.resources
+C:\Users\cahyo\Documents\parkir\Parkir\obj\Debug\Parkir.DataKeluar.resources
+C:\Users\cahyo\Documents\parkir\Parkir\obj\Debug\Parkir.DataMasuk.resources
+C:\Users\cahyo\Documents\parkir\Parkir\obj\Debug\Parkir.DataParkir.resources
+C:\Users\cahyo\Documents\parkir\Parkir\obj\Debug\Parkir.DataUser.resources
+C:\Users\cahyo\Documents\parkir\Parkir\obj\Debug\Parkir.Form1.resources
+C:\Users\cahyo\Documents\parkir\Parkir\obj\Debug\Parkir.Laporan.resources
+C:\Users\cahyo\Documents\parkir\Parkir\obj\Debug\Parkir.Options.resources
+C:\Users\cahyo\Documents\parkir\Parkir\obj\Debug\Parkir.Parkir.resources
+C:\Users\cahyo\Documents\parkir\Parkir\obj\Debug\Parkir.Login.resources
+C:\Users\cahyo\Documents\parkir\Parkir\obj\Debug\Parkir.PengaturanTarif.resources
+C:\Users\cahyo\Documents\parkir\Parkir\obj\Debug\Parkir.Properties.Resources.resources
+C:\Users\cahyo\Documents\parkir\Parkir\obj\Debug\Parkir.csproj.GenerateResource.Cache
+C:\Users\cahyo\Documents\parkir\Parkir\bin\Debug\AForge.xml
+C:\Users\cahyo\Documents\parkir\Parkir\bin\Debug\AForge.Video.xml
+C:\Users\cahyo\Documents\parkir\Parkir\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\cahyo\Documents\parkir\Parkir\bin\Debug\zxing.pdb
+C:\Users\cahyo\Documents\parkir\Parkir\bin\Debug\zxing.xml
+C:\Users\cahyo\Documents\parkir\Parkir\bin\Debug\zxing.presentation.pdb
+C:\Users\cahyo\Documents\parkir\Parkir\bin\Debug\zxing.presentation.xml
+C:\Users\cahyo\Documents\parkir\Parkir\obj\Debug\Parkir.Form2.resources
+C:\Users\cahyo\Documents\parkir\Parkir\obj\Debug\Parkir.Form3.resources
+C:\Users\cahyo\Documents\parkir - Copy\Parkir\bin\Debug\Parkir.exe.config
+C:\Users\cahyo\Documents\parkir - Copy\Parkir\obj\Debug\Parkir.exe
+C:\Users\cahyo\Documents\parkir - Copy\Parkir\obj\Debug\Parkir.pdb
+C:\Users\cahyo\Documents\parkir - Copy\Parkir\obj\Debug\Parkir.csprojResolveAssemblyReference.cache
+C:\Users\cahyo\Documents\parkir - Copy\Parkir\obj\Debug\Parkir.AddUser.resources
+C:\Users\cahyo\Documents\parkir - Copy\Parkir\obj\Debug\Parkir.DataKeluar.resources
+C:\Users\cahyo\Documents\parkir - Copy\Parkir\obj\Debug\Parkir.DataMasuk.resources
+C:\Users\cahyo\Documents\parkir - Copy\Parkir\obj\Debug\Parkir.DataParkir.resources
+C:\Users\cahyo\Documents\parkir - Copy\Parkir\obj\Debug\Parkir.DataUser.resources
+C:\Users\cahyo\Documents\parkir - Copy\Parkir\obj\Debug\Parkir.Form1.resources
+C:\Users\cahyo\Documents\parkir - Copy\Parkir\obj\Debug\Parkir.Form2.resources
+C:\Users\cahyo\Documents\parkir - Copy\Parkir\obj\Debug\Parkir.Form3.resources
+C:\Users\cahyo\Documents\parkir - Copy\Parkir\obj\Debug\Parkir.Laporan.resources
+C:\Users\cahyo\Documents\parkir - Copy\Parkir\obj\Debug\Parkir.Options.resources
+C:\Users\cahyo\Documents\parkir - Copy\Parkir\obj\Debug\Parkir.Parkir.resources
+C:\Users\cahyo\Documents\parkir - Copy\Parkir\obj\Debug\Parkir.Login.resources
+C:\Users\cahyo\Documents\parkir - Copy\Parkir\obj\Debug\Parkir.PengaturanTarif.resources
+C:\Users\cahyo\Documents\parkir - Copy\Parkir\obj\Debug\Parkir.Properties.Resources.resources
+C:\Users\cahyo\Documents\parkir - Copy\Parkir\obj\Debug\Parkir.csproj.GenerateResource.Cache
+C:\Users\cahyo\Documents\parkir - Copy\Parkir\bin\Debug\Parkir.exe
+C:\Users\cahyo\Documents\parkir - Copy\Parkir\bin\Debug\Parkir.pdb
+C:\Users\cahyo\Documents\parkir - Copy\Parkir\bin\Debug\AForge.xml
+C:\Users\cahyo\Documents\parkir - Copy\Parkir\bin\Debug\AForge.Video.xml
+C:\Users\cahyo\Documents\parkir - Copy\Parkir\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\cahyo\Documents\parkir - Copy\Parkir\bin\Debug\MySql.Data.xml
+C:\Users\cahyo\Documents\parkir - Copy\Parkir\bin\Debug\zxing.pdb
+C:\Users\cahyo\Documents\parkir - Copy\Parkir\bin\Debug\zxing.xml
+C:\Users\cahyo\Documents\parkir - Copy\Parkir\bin\Debug\zxing.presentation.pdb
+C:\Users\cahyo\Documents\parkir - Copy\Parkir\bin\Debug\zxing.presentation.xml
+C:\Users\cahyo\Documents\parkir - Copy\Parkir\obj\Debug\Parkir.view.LoginV.resources
+C:\Users\Rocket\Downloads\parkir\Parkir\bin\Debug\Parkir.exe.config
+C:\Users\Rocket\Downloads\parkir\Parkir\bin\Debug\Parkir.exe
+C:\Users\Rocket\Downloads\parkir\Parkir\bin\Debug\Parkir.pdb
+C:\Users\Rocket\Downloads\parkir\Parkir\bin\Debug\AForge.xml
+C:\Users\Rocket\Downloads\parkir\Parkir\bin\Debug\AForge.Video.xml
+C:\Users\Rocket\Downloads\parkir\Parkir\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Rocket\Downloads\parkir\Parkir\bin\Debug\MySql.Data.xml
+C:\Users\Rocket\Downloads\parkir\Parkir\bin\Debug\zxing.pdb
+C:\Users\Rocket\Downloads\parkir\Parkir\bin\Debug\zxing.xml
+C:\Users\Rocket\Downloads\parkir\Parkir\bin\Debug\zxing.presentation.pdb
+C:\Users\Rocket\Downloads\parkir\Parkir\bin\Debug\zxing.presentation.xml
+C:\Users\Rocket\Downloads\parkir\Parkir\obj\Debug\Parkir.csprojResolveAssemblyReference.cache
+C:\Users\Rocket\Downloads\parkir\Parkir\obj\Debug\Parkir.AddUser.resources
+C:\Users\Rocket\Downloads\parkir\Parkir\obj\Debug\Parkir.DataKeluar.resources
+C:\Users\Rocket\Downloads\parkir\Parkir\obj\Debug\Parkir.DataMasuk.resources
+C:\Users\Rocket\Downloads\parkir\Parkir\obj\Debug\Parkir.DataParkir.resources
+C:\Users\Rocket\Downloads\parkir\Parkir\obj\Debug\Parkir.DataUser.resources
+C:\Users\Rocket\Downloads\parkir\Parkir\obj\Debug\Parkir.Form1.resources
+C:\Users\Rocket\Downloads\parkir\Parkir\obj\Debug\Parkir.Form2.resources
+C:\Users\Rocket\Downloads\parkir\Parkir\obj\Debug\Parkir.Form3.resources
+C:\Users\Rocket\Downloads\parkir\Parkir\obj\Debug\Parkir.Laporan.resources
+C:\Users\Rocket\Downloads\parkir\Parkir\obj\Debug\Parkir.Options.resources
+C:\Users\Rocket\Downloads\parkir\Parkir\obj\Debug\Parkir.Parkir.resources
+C:\Users\Rocket\Downloads\parkir\Parkir\obj\Debug\Parkir.Login.resources
+C:\Users\Rocket\Downloads\parkir\Parkir\obj\Debug\Parkir.PengaturanTarif.resources
+C:\Users\Rocket\Downloads\parkir\Parkir\obj\Debug\Parkir.Properties.Resources.resources
+C:\Users\Rocket\Downloads\parkir\Parkir\obj\Debug\Parkir.view.LoginV.resources
+C:\Users\Rocket\Downloads\parkir\Parkir\obj\Debug\Parkir.csproj.GenerateResource.Cache
+C:\Users\Rocket\Downloads\parkir\Parkir\obj\Debug\Parkir.csproj.CoreCompileInputs.cache
+C:\Users\Rocket\Downloads\parkir\Parkir\obj\Debug\Parkir.exe
+C:\Users\Rocket\Downloads\parkir\Parkir\obj\Debug\Parkir.pdb
+C:\Users\cahyo\Downloads\parkir\Parkir\bin\Debug\Parkir.exe.config
+C:\Users\cahyo\Downloads\parkir\Parkir\obj\Debug\Parkir.exe
+C:\Users\cahyo\Downloads\parkir\Parkir\obj\Debug\Parkir.pdb
+C:\Users\cahyo\Downloads\parkir\Parkir\bin\Debug\Parkir.exe
+C:\Users\cahyo\Downloads\parkir\Parkir\bin\Debug\Parkir.pdb
+C:\Users\cahyo\Downloads\parkir\Parkir\bin\Debug\AForge.xml
+C:\Users\cahyo\Downloads\parkir\Parkir\bin\Debug\AForge.Video.xml
+C:\Users\cahyo\Downloads\parkir\Parkir\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\cahyo\Downloads\parkir\Parkir\bin\Debug\MySql.Data.xml
+C:\Users\cahyo\Downloads\parkir\Parkir\bin\Debug\zxing.pdb
+C:\Users\cahyo\Downloads\parkir\Parkir\bin\Debug\zxing.xml
+C:\Users\cahyo\Downloads\parkir\Parkir\bin\Debug\zxing.presentation.pdb
+C:\Users\cahyo\Downloads\parkir\Parkir\bin\Debug\zxing.presentation.xml
+C:\Users\cahyo\Downloads\parkir\Parkir\obj\Debug\Parkir.csprojResolveAssemblyReference.cache
+C:\Users\cahyo\Downloads\parkir\Parkir\obj\Debug\Parkir.AddUser.resources
+C:\Users\cahyo\Downloads\parkir\Parkir\obj\Debug\Parkir.DataKeluar.resources
+C:\Users\cahyo\Downloads\parkir\Parkir\obj\Debug\Parkir.DataMasuk.resources
+C:\Users\cahyo\Downloads\parkir\Parkir\obj\Debug\Parkir.DataParkir.resources
+C:\Users\cahyo\Downloads\parkir\Parkir\obj\Debug\Parkir.DataUser.resources
+C:\Users\cahyo\Downloads\parkir\Parkir\obj\Debug\Parkir.Form1.resources
+C:\Users\cahyo\Downloads\parkir\Parkir\obj\Debug\Parkir.Form2.resources
+C:\Users\cahyo\Downloads\parkir\Parkir\obj\Debug\Parkir.Form3.resources
+C:\Users\cahyo\Downloads\parkir\Parkir\obj\Debug\Parkir.Laporan.resources
+C:\Users\cahyo\Downloads\parkir\Parkir\obj\Debug\Parkir.Options.resources
+C:\Users\cahyo\Downloads\parkir\Parkir\obj\Debug\Parkir.Parkir.resources
+C:\Users\cahyo\Downloads\parkir\Parkir\obj\Debug\Parkir.Login.resources
+C:\Users\cahyo\Downloads\parkir\Parkir\obj\Debug\Parkir.PengaturanTarif.resources
+C:\Users\cahyo\Downloads\parkir\Parkir\obj\Debug\Parkir.Properties.Resources.resources
+C:\Users\cahyo\Downloads\parkir\Parkir\obj\Debug\Parkir.view.LoginV.resources
+C:\Users\cahyo\Downloads\parkir\Parkir\obj\Debug\Parkir.csproj.GenerateResource.Cache
+C:\Users\cahyo\Downloads\parkir\Parkir\obj\Debug\Parkir.view.DataMasuk.resources
+C:\Users\cahyo\Downloads\parkir\Parkir\obj\Debug\Parkir.view.LaporanV.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\Parkir.AddUser.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\Parkir.view.DataKeluar.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\Parkir.view.DataMasuk.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\Parkir.view.DataParkir.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\Parkir.view.DataUser.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\Parkir.Form1.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\Parkir.Form2.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\Parkir.Form3.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\Parkir.view.Laporan.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\Parkir.Options.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\Parkir.view.Parkir.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\Parkir.view.Login.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\Parkir.PengaturanTarif.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\Parkir.Properties.Resources.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\Parkir.view.LaporanV.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\Parkir.view.LoginV.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\Parkir.csproj.GenerateResource.Cache

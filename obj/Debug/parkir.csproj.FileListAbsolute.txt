@@ -1,0 +1,19 @@
+F:\materi kuliah\Pemrograman\final Project\parkir\parkir\bin\Debug\parkir.exe.config
+F:\materi kuliah\Pemrograman\final Project\parkir\parkir\bin\Debug\parkir.exe
+F:\materi kuliah\Pemrograman\final Project\parkir\parkir\bin\Debug\parkir.pdb
+F:\materi kuliah\Pemrograman\final Project\parkir\parkir\bin\Debug\MySql.Data.dll
+F:\materi kuliah\Pemrograman\final Project\parkir\parkir\bin\Debug\MySql.Data.xml
+F:\materi kuliah\Pemrograman\final Project\parkir\parkir\obj\Debug\parkir.csprojResolveAssemblyReference.cache
+F:\materi kuliah\Pemrograman\final Project\parkir\parkir\obj\Debug\parkir.Form1.resources
+F:\materi kuliah\Pemrograman\final Project\parkir\parkir\obj\Debug\parkir.Properties.Resources.resources
+F:\materi kuliah\Pemrograman\final Project\parkir\parkir\obj\Debug\parkir.csproj.GenerateResource.Cache
+F:\materi kuliah\Pemrograman\final Project\parkir\parkir\obj\Debug\parkir.csproj.CoreCompileInputs.cache
+F:\materi kuliah\Pemrograman\final Project\parkir\parkir\obj\Debug\parkir.exe
+F:\materi kuliah\Pemrograman\final Project\parkir\parkir\obj\Debug\parkir.pdb
+F:\materi kuliah\Pemrograman\final Project\parkir\parkir\obj\Debug\parkir.Masuk.resources
+F:\materi kuliah\Pemrograman\final Project\parkir\parkir\obj\Debug\parkir.Keluar.resources
+F:\materi kuliah\Pemrograman\final Project\parkir\parkir\obj\Debug\parkir.DataUser.resources
+F:\materi kuliah\Pemrograman\final Project\parkir\parkir\obj\Debug\parkir.DataPetugas.resources
+F:\materi kuliah\Pemrograman\final Project\parkir\parkir\obj\Debug\parkir.Tarif.resources
+D:\AAA\PARKINGGET\Aplikasi parkir_updated\parkir\obj\Debug\parkir.exe
+D:\AAA\PARKINGGET\Aplikasi parkir_updated\parkir\obj\Debug\parkir.pdb
