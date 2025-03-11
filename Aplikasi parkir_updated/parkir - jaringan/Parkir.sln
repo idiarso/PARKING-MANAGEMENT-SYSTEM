@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkirApp", "Parkir\ParkirApp.csproj", "{3C214041-5B72-4291-ABCB-9DBE63106165}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Aplikasi Parkir", "Aplikasi Parkir\Aplikasi Parkir.vdproj", "{45EEF70C-0C1B-47A8-B229-B0D0B2C83DFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C214041-5B72-4291-ABCB-9DBE63106165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C214041-5B72-4291-ABCB-9DBE63106165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C214041-5B72-4291-ABCB-9DBE63106165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C214041-5B72-4291-ABCB-9DBE63106165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45EEF70C-0C1B-47A8-B229-B0D0B2C83DFA}.Debug|Any CPU.ActiveCfg = Debug
+		{45EEF70C-0C1B-47A8-B229-B0D0B2C83DFA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBBD9FC8-A791-4D63-AF31-5097CF067C6C}
+	EndGlobalSection
+EndGlobal

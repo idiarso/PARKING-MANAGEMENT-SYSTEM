@@ -1,0 +1,6 @@
+Aplikasi dibagi menjadi 2 versi
+pertama yang bukan client server terdapat pada folder parkir
+menggunakan localhost sebagai server databaseya
+versi selanjutnya adalah client server terdapat pada folder parkir-jaringan
+menggunakan ip 192.168.1.1 sebagai default server databasenya
+untuk mengubahnya bisa dilihat pada microsoft visual studio,folder model class database utility.
