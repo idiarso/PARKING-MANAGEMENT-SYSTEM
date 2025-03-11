@@ -1,0 +1,15 @@
+C:\Users\cahyo\Documents\parkir\bin\Release\parkir.exe.config
+C:\Users\cahyo\Documents\parkir\obj\Release\parkir.csprojResolveAssemblyReference.cache
+C:\Users\cahyo\Documents\parkir\obj\Release\parkir.DataPetugas.resources
+C:\Users\cahyo\Documents\parkir\obj\Release\parkir.DataUser.resources
+C:\Users\cahyo\Documents\parkir\obj\Release\parkir.Form1.resources
+C:\Users\cahyo\Documents\parkir\obj\Release\parkir.Keluar.resources
+C:\Users\cahyo\Documents\parkir\obj\Release\parkir.Masuk.resources
+C:\Users\cahyo\Documents\parkir\obj\Release\parkir.Properties.Resources.resources
+C:\Users\cahyo\Documents\parkir\obj\Release\parkir.Tarif.resources
+C:\Users\cahyo\Documents\parkir\obj\Release\parkir.csproj.GenerateResource.Cache
+C:\Users\cahyo\Documents\parkir\bin\Release\parkir.exe
+C:\Users\cahyo\Documents\parkir\bin\Release\parkir.pdb
+C:\Users\cahyo\Documents\parkir\bin\Release\MySql.Data.DLL
+C:\Users\cahyo\Documents\parkir\obj\Release\parkir.exe
+C:\Users\cahyo\Documents\parkir\obj\Release\parkir.pdb

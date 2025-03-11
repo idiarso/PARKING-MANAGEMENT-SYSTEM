@@ -1,0 +1,346 @@
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\Parkir.Properties.Resources.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.csproj.GenerateResource.Cache
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\bin\Debug\Parkir.exe.config
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\bin\Debug\Parkir.exe
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\bin\Debug\Parkir.pdb
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\Parkir.exe
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\Parkir.pdb
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.view.DataKeluar.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.view.DataMasuk.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.view.DataParkir.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.view.DataUser.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.Form1.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.Form3.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.view.Laporan.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.view.Parkir.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.view.LaporanV.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.view.LoginV.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.view.Form2.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.view.AddUser.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.view.PengaturanTarif.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.view.Options.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.Login.resources
+C:\Users\cahyo\Downloads\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.csprojResolveAssemblyReference.cache
+F:\materi kuliah\semester 3\Pemrograman Lanjut\final project pemrograman\New folder (3)\parkir\Parkir\bin\Debug\Parkir.exe.config
+F:\materi kuliah\semester 3\Pemrograman Lanjut\final project pemrograman\New folder (3)\parkir\Parkir\bin\Debug\Parkir.exe
+F:\materi kuliah\semester 3\Pemrograman Lanjut\final project pemrograman\New folder (3)\parkir\Parkir\bin\Debug\Parkir.pdb
+F:\materi kuliah\semester 3\Pemrograman Lanjut\final project pemrograman\New folder (3)\parkir\Parkir\bin\Debug\MySql.Data.dll
+F:\materi kuliah\semester 3\Pemrograman Lanjut\final project pemrograman\New folder (3)\parkir\Parkir\bin\Debug\MySql.Data.xml
+F:\materi kuliah\semester 3\Pemrograman Lanjut\final project pemrograman\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.csprojResolveAssemblyReference.cache
+F:\materi kuliah\semester 3\Pemrograman Lanjut\final project pemrograman\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.view.AddUser.resources
+F:\materi kuliah\semester 3\Pemrograman Lanjut\final project pemrograman\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.view.DataKeluar.resources
+F:\materi kuliah\semester 3\Pemrograman Lanjut\final project pemrograman\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.view.DataMasuk.resources
+F:\materi kuliah\semester 3\Pemrograman Lanjut\final project pemrograman\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.view.DataParkir.resources
+F:\materi kuliah\semester 3\Pemrograman Lanjut\final project pemrograman\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.view.DataUser.resources
+F:\materi kuliah\semester 3\Pemrograman Lanjut\final project pemrograman\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.Form1.resources
+F:\materi kuliah\semester 3\Pemrograman Lanjut\final project pemrograman\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.view.Form2.resources
+F:\materi kuliah\semester 3\Pemrograman Lanjut\final project pemrograman\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.Form3.resources
+F:\materi kuliah\semester 3\Pemrograman Lanjut\final project pemrograman\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.view.Laporan.resources
+F:\materi kuliah\semester 3\Pemrograman Lanjut\final project pemrograman\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.view.Options.resources
+F:\materi kuliah\semester 3\Pemrograman Lanjut\final project pemrograman\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.Login.resources
+F:\materi kuliah\semester 3\Pemrograman Lanjut\final project pemrograman\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.view.Parkir.resources
+F:\materi kuliah\semester 3\Pemrograman Lanjut\final project pemrograman\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.view.PengaturanTarif.resources
+F:\materi kuliah\semester 3\Pemrograman Lanjut\final project pemrograman\New folder (3)\parkir\Parkir\obj\Debug\Parkir.Properties.Resources.resources
+F:\materi kuliah\semester 3\Pemrograman Lanjut\final project pemrograman\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.view.LaporanV.resources
+F:\materi kuliah\semester 3\Pemrograman Lanjut\final project pemrograman\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.view.LoginV.resources
+F:\materi kuliah\semester 3\Pemrograman Lanjut\final project pemrograman\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.csproj.GenerateResource.Cache
+F:\materi kuliah\semester 3\Pemrograman Lanjut\final project pemrograman\New folder (3)\parkir\Parkir\obj\Debug\ParkirApp.csproj.CoreCompileInputs.cache
+F:\materi kuliah\semester 3\Pemrograman Lanjut\final project pemrograman\New folder (3)\parkir\Parkir\obj\Debug\Parkir.exe
+F:\materi kuliah\semester 3\Pemrograman Lanjut\final project pemrograman\New folder (3)\parkir\Parkir\obj\Debug\Parkir.pdb
+G:\parkir\Parkir\bin\Debug\Parkir.exe.config
+G:\parkir\Parkir\obj\Debug\Parkir.exe
+G:\parkir\Parkir\obj\Debug\Parkir.pdb
+G:\parkir\Parkir\bin\Debug\Parkir.exe
+G:\parkir\Parkir\bin\Debug\Parkir.pdb
+G:\parkir\Parkir\obj\Debug\ParkirApp.view.AddUser.resources
+G:\parkir\Parkir\obj\Debug\ParkirApp.view.DataKeluar.resources
+G:\parkir\Parkir\obj\Debug\ParkirApp.view.DataMasuk.resources
+G:\parkir\Parkir\obj\Debug\ParkirApp.view.DataParkir.resources
+G:\parkir\Parkir\obj\Debug\ParkirApp.view.DataUser.resources
+G:\parkir\Parkir\obj\Debug\ParkirApp.Form1.resources
+G:\parkir\Parkir\obj\Debug\ParkirApp.view.Form2.resources
+G:\parkir\Parkir\obj\Debug\ParkirApp.Form3.resources
+G:\parkir\Parkir\obj\Debug\ParkirApp.view.Laporan.resources
+G:\parkir\Parkir\obj\Debug\ParkirApp.view.Options.resources
+G:\parkir\Parkir\obj\Debug\ParkirApp.Login.resources
+G:\parkir\Parkir\obj\Debug\ParkirApp.view.Parkir.resources
+G:\parkir\Parkir\obj\Debug\ParkirApp.view.PengaturanTarif.resources
+G:\parkir\Parkir\obj\Debug\Parkir.Properties.Resources.resources
+G:\parkir\Parkir\obj\Debug\ParkirApp.view.LaporanV.resources
+G:\parkir\Parkir\obj\Debug\ParkirApp.view.LoginV.resources
+G:\parkir\Parkir\obj\Debug\ParkirApp.csproj.GenerateResource.Cache
+G:\parkir\Parkir\bin\Debug\Dapper.dll
+G:\parkir\Parkir\bin\Debug\Dapper.xml
+G:\parkir\Parkir\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\parkir\Parkir\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\parkir\Parkir\bin\Debug\CrystalDecisions.Shared.dll
+G:\parkir\Parkir\bin\Debug\log4net.dll
+G:\parkir\Parkir\bin\Debug\log4net.xml
+G:\parkir\Parkir\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\parkir\Parkir\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\parkir\Parkir\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\parkir\Parkir\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\parkir\Parkir\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\parkir\Parkir\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\parkir\Parkir\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\parkir\Parkir\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\parkir\Parkir\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\parkir\Parkir\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\parkir\Parkir\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\parkir\Parkir\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\parkir\Parkir\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\parkir\Parkir\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\parkir\Parkir\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\parkir\Parkir\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\parkir\Parkir\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\parkir\Parkir\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\parkir\Parkir\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\parkir\Parkir\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\parkir\Parkir\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\parkir\Parkir\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+G:\parkir\Parkir\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+G:\parkir\Parkir\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+G:\parkir\Parkir\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+G:\parkir\Parkir\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+G:\parkir\Parkir\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+G:\parkir\Parkir\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+G:\parkir\Parkir\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+G:\parkir\Parkir\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+G:\parkir\Parkir\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+G:\parkir\Parkir\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+G:\parkir\Parkir\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+G:\parkir\Parkir\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+G:\parkir\Parkir\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+G:\parkir\Parkir\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+G:\parkir\Parkir\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+G:\parkir\Parkir\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+G:\parkir\Parkir\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+G:\parkir\Parkir\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+G:\parkir\Parkir\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+G:\parkir\Parkir\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+G:\parkir\Parkir\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+G:\parkir\Parkir\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+G:\parkir\Parkir\obj\Debug\ParkirApp.csprojResolveAssemblyReference.cache
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\Parkir.exe.config
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\Parkir.exe
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\Parkir.pdb
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\Dapper.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\log4net.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\Dapper.xml
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\log4net.xml
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\obj\Debug\ParkirApp.csprojResolveAssemblyReference.cache
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\obj\Debug\ParkirApp.view.AddUser.resources
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\obj\Debug\ParkirApp.view.DataKeluar.resources
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\obj\Debug\ParkirApp.view.DataMasuk.resources
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\obj\Debug\ParkirApp.view.DataParkir.resources
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\obj\Debug\ParkirApp.view.DataUser.resources
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\obj\Debug\ParkirApp.Form1.resources
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\obj\Debug\ParkirApp.view.Form2.resources
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\obj\Debug\ParkirApp.Form3.resources
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\obj\Debug\ParkirApp.view.Laporan.resources
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\obj\Debug\ParkirApp.view.Options.resources
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\obj\Debug\ParkirApp.Login.resources
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\obj\Debug\ParkirApp.view.Parkir.resources
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\obj\Debug\ParkirApp.view.PengaturanTarif.resources
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\obj\Debug\Parkir.Properties.Resources.resources
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\obj\Debug\ParkirApp.view.LaporanV.resources
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\obj\Debug\ParkirApp.view.LoginV.resources
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\obj\Debug\ParkirApp.csproj.GenerateResource.Cache
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\obj\Debug\ParkirApp.csproj.CoreCompileInputs.cache
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\obj\Debug\Parkir.exe
+C:\Users\Rocket\Downloads\parkir_xxx\parkir\Parkir\obj\Debug\Parkir.pdb
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\Parkir.exe.config
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\obj\Debug\Parkir.exe
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\obj\Debug\Parkir.pdb
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\Parkir.exe
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\Parkir.pdb
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\Dapper.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\log4net.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\Dapper.xml
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\log4net.xml
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.csprojResolveAssemblyReference.cache
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.view.AddUser.resources
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.view.DataKeluar.resources
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.view.DataMasuk.resources
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.view.DataParkir.resources
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.view.DataUser.resources
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.Form1.resources
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.view.Form2.resources
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.Form3.resources
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.view.Laporan.resources
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.view.Options.resources
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.Login.resources
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.view.Parkir.resources
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.view.PengaturanTarif.resources
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\obj\Debug\Parkir.Properties.Resources.resources
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.view.LaporanV.resources
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.view.LoginV.resources
+C:\Users\cahyo\Downloads\Compressed\parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.csproj.GenerateResource.Cache
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\Parkir.exe.config
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\obj\Debug\Parkir.exe
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\obj\Debug\Parkir.pdb
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\Parkir.exe
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\Parkir.pdb
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\Dapper.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\log4net.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\Dapper.xml
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\log4net.xml
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.csprojResolveAssemblyReference.cache
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.view.AddUser.resources
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.view.DataKeluar.resources
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.view.DataMasuk.resources
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.view.DataParkir.resources
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.view.DataUser.resources
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.Form1.resources
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.view.Form2.resources
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.Form3.resources
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.view.Laporan.resources
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.view.Options.resources
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.Login.resources
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.view.Parkir.resources
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.view.PengaturanTarif.resources
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\obj\Debug\Parkir.Properties.Resources.resources
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.view.LaporanV.resources
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.view.LoginV.resources
+C:\Users\cahyo\Downloads\Compressed\DOKUMENTASI\Aplikasi parkir_updated\parkir\Parkir\obj\Debug\ParkirApp.csproj.GenerateResource.Cache
